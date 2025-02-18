@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# SPX-Data
-S&amp;P 500 Data
-=======
 # S&P 500 Sector Performance Dashboard
 
 ## Overview
