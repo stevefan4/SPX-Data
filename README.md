@@ -8,7 +8,7 @@ S&amp;P 500 Data
 This project aims to create a comprehensive dashboard that provides insights into the performance of various sectors within the S&P 500. By analyzing key financial metrics, the goal is to help investors, analysts, and researchers understand how different sectors are evolving over time and identify emerging trends. 
 
 ### Goals:
-1. **Understand Sector Performance:** Track and analyze revenue, margins, earnings, balance sheet strength, and M&A/financing activity.
+1. **Track Sector Performance:** Track and analyze revenue, margins, earnings, balance sheet strength, and M&A/financing activity.
 2. **Identify Trends:** Provide visual insights into sector-wide financial health and macroeconomic impacts.
 3. **Enhance Decision-Making:** Enable users to make informed investment or strategic business decisions based on historical and current data.
 4. **Compare Against Benchmarks:** Compare sector performance against historical norms, economic cycles, and macroeconomic indicators.
